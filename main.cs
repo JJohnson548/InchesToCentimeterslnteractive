@@ -5,10 +5,9 @@ class Program
     public static void Main(string[] args)
     {
 
-
         const double CENTIMETERS_IN_INCHES = 2.54;
 
-        Console.Write("Enter number inches: ");
+        Console.Write("Enter number in inches: ");
         string input = Console.ReadLine();
 
         double inches;
